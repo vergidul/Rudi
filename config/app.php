@@ -157,7 +157,7 @@ return [
     		App\Providers\RouteServiceProvider::class,
     		Laracasts\Flash\FlashServiceProvider::class,
     		Collective\Html\HtmlServiceProvider::class,
-    		Laravel\Socialite\SocialiteServiceProvider::class,
+    		//Laravel\Socialite\SocialiteServiceProvider::class,
 
     ],
 
