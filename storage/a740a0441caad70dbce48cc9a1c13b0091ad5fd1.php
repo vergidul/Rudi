@@ -9,6 +9,12 @@ Webcam
 
 <h1>Immagini</h1>
 
+<style>
+.carousel {
+  width:auto;
+}
+</style>
+
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
@@ -29,7 +35,7 @@ Webcam
     </div>
 
     <div class="item">
-      <img src="3.jpg" alt="Flower">
+      <img src="3.jpg" alt="Immagine mancante :)">
     </div>
 
     
@@ -45,6 +51,12 @@ Webcam
     <span class="sr-only">Next</span>
   </a>
 </div>
+</br>
+<div class="well">
+<h1>Presentazione</h1>
+<p>Io sono</p>
+</div>
+
 <?php $__env->stopSection(); ?>
 
 
