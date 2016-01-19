@@ -157,6 +157,7 @@ return [
     		App\Providers\RouteServiceProvider::class,
     		Laracasts\Flash\FlashServiceProvider::class,
     		Collective\Html\HtmlServiceProvider::class,
+    		Laravel\Socialite\SocialiteServiceProvider::class,
 
     ],
 
@@ -206,6 +207,7 @@ return [
     		'Flash'		=> Laracasts\Flash\Flash::class,
     		'Form'		=> Collective\Html\FormFacade::class,
     		'Html' 		=> Collective\Html\HtmlFacade::class,
+    		'Socialite' => Laravel\Socialite\Facades\Socialite::class,
     ],
 
 ];

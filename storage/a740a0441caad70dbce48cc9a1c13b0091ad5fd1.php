@@ -9,6 +9,8 @@ Webcam
 
 <p> Ecco le webcam </p>
 
+<div class="fb-like" data-href="https://www.facebook.com/diabetesmarathonforli/" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
+
 
 
 <?php $__env->stopSection(); ?>
